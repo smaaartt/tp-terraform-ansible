@@ -1,4 +1,5 @@
 Projet DevOps : Provisionnement Terraform & Validation Ansible
+Ekta Mistry
 
 
 Q1 : Pourquoi séparer provisionnement et validation ?
